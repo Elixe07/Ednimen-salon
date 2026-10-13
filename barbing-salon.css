@@ -350,6 +350,11 @@ footer .contact h3{
     transition: 0.3s;
 }
 
+.contact-information span a{
+    color: white;
+    text-decoration: none;
+}
+
 .contact-information span:hover{
     background: #d4a017;
     color: #000;
